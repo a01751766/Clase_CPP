@@ -6,7 +6,7 @@ using std::string;
 
 Tablero::Tablero()
 {
-    for (int i = 0; i<=100; i++)
+    for (int i = 0; i<=100; i++)l.
     {
         cas[i].set_pos(i);
     }
