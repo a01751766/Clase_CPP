@@ -1,4 +1,3 @@
-
 #include<iostream>
 #include "dado.h"
 #include "jugador.h"
